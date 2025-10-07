@@ -1,7 +1,11 @@
-#Demo 
+# Demo 
 
 Some Descriptions.
 
-##subheader
+## subheader
 
 Some Tutorial on Youtube
+
+# Local development
+
+1. Open index.html file in your browser
